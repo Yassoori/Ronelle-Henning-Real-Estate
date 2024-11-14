@@ -1,0 +1,176 @@
+@media screen and (min-width: 812px) {
+  // ------------------------ Text Setttings ------------------------
+
+  // h1,
+  // h4 {
+  //   font-size: $h1-size-big-desk;
+  //   font-family: "Le Murmure", sans-serif;
+  // }
+
+  // @media screen and (max-width: 420px) {
+  //   h1 {
+  //     font-size: $h1-size-small-desk;
+  //   }
+  // }
+
+  // h2 {
+  //   font-size: $desk-sub-size;
+  //   font-family: "Lustria", sans-serif;
+  // }
+
+  // .card-body p,
+  // h3 {
+  //   font-size: $desk-sub-size;
+  //   font-family: "Lustria", sans-serif;
+  // }
+
+  // h4 {
+  //   position: absolute;
+  //   top: 8px;
+  // }
+
+  // p,
+  // li,
+  // a,
+  // input,
+  // textarea,
+  // button {
+  //   font-family: "Montserrat", sans-serif;
+  // }
+
+  // a,
+  // p,
+  // div,
+  // button,
+  // input,
+  // textarea {
+  //   font-size: $desk-body-size;
+  // }
+
+  // // ------------------------ Common Tags ------------------------
+
+  // input,
+  // textarea,
+  // button,
+  // .button-reg {
+  //   width: 100%;
+  //   border: none;
+  //   border-radius: $small-margin;
+  //   padding: $med-margin;
+  //   text-align: start;
+  //   margin-bottom: $med-margin;
+  //   min-height: 36px;
+  // }
+
+  // textarea {
+  //   // resize: none;
+  //   resize: vertical;
+  //   overflow: auto;
+  // }
+
+  // button {
+  //   background: none;
+  //   border: none;
+  // }
+
+  // ------------------------ Containers ------------------------
+
+  // .container {
+  //   padding: $small-margin;
+  //   position: relative;
+  //   display: flex;
+  //   flex-wrap: wrap;
+  //   justify-content: flex-start;
+  //   flex-direction: column;
+  //   flex-grow: 1;
+  //   margin: auto;
+  //   // min-height: calc(100vh - 115px);
+  //   // opacity: 0;
+  //   // transition: 0.4s;
+  // }
+
+  // .full-container {
+  //   width: 100%;
+  // }
+
+  // ------------------------ Cards ------------------------
+
+  //   .card:hover {
+  //     // p,
+  //     .card-body,
+  //     h3 {
+  //       visibility: visible;
+  //       opacity: 1;
+  //       height: $very-big-margin * 1.5;
+  //       // height: 100%;
+  //     }
+  //   }
+
+  //   .grid-container {
+  //     gap: $big-margin;
+  //   }
+
+  // ------------------------ Header ------------------------
+
+  //   nav {
+  //     padding: 0 $very-big-margin;
+
+  //     #desktop-nav-menu {
+  //       display: flex;
+  //       justify-content: space-around;
+  //       align-items: center;
+
+  //       .nav-button {
+  //         padding: $small-margin;
+  //         margin-left: $small-margin;
+  //         margin-right: $small-margin;
+  //       }
+  //     }
+  //     #hamburger-container {
+  //       display: none;
+  //       button {
+  //         display: none;
+  //       }
+  //     }
+  //   }
+
+  //   #mobile-menu-container {
+  //     display: none;
+  //   }
+
+  // ------------------------ Footer ------------------------
+
+  //   #footer {
+  //     #social-media-icons {
+  //       margin: $med-margin;
+  //       a {
+  //         margin: 0 $big-margin;
+  //       }
+  //     }
+  //   }
+
+  // ------------------------ Home ------------------------
+
+  // #home-page {
+  // }
+
+  // ------------------------ Gallery ------------------------
+
+  // #gallery-page {
+  // }
+
+  // ------------------------ Projects ------------------------
+
+  // #project-page {
+  // }
+
+  // ------------------------ About ------------------------
+
+  // #about-page {
+  // }
+
+  // ------------------------ Contact ------------------------
+
+  // #contact-page {
+  // }
+}

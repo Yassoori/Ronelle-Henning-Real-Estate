@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Josefin+Sans");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  width: 100%;
+  min-height: 99.4vh;
+  box-sizing: border-box;
+  height: 100vh;
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+body ::-webkit-scrollbar {
+  display: none;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+@font-face {
+  font-family: "Le Murmure";
+  src: url("/typefaces/Le Murmure/le-murmure.otf");
+}/*# sourceMappingURL=App.css.map */
